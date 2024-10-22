@@ -14,6 +14,7 @@ docker-compose up
 docker compose exec app migrate -path ./schema -database 'postgres://todo_user:todo_password@postgres:5432/postgres?sslmode=disable' up
 ```
 ## Работа с БД и запросы
+![image](https://github.com/user-attachments/assets/1aedde5c-c642-4ea4-b5f8-ac653b5358a6)
 
 ### Аутентификация:
 ![Screenshot_1](https://github.com/user-attachments/assets/08af6656-0ea6-4a05-8239-0e2a4a2fb891)
