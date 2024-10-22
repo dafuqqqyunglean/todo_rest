@@ -1,0 +1,24 @@
+db.logs.find()
+use logs
+show dbs
+db.log_collection.insert({ "message": "test log" })
+use logs
+show dbs
+use logs
+use isdias
+db.logs.find().pretty()
+show collections
+use mongo
+show collections
+exit
+db.logs.find().pretty()
+use logs
+exit
+logs. logs.logs.find().pretty()
+db
+logs
+d
+db.logCollection.find().pretty()
+db.logs.find().pretty()
+show collections
+use logs
